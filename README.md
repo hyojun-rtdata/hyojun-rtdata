@@ -2,7 +2,7 @@
 - 👀 I’m interested in data visualization and analysis.
 - 🌱 I’m currently learning tableau, statstical modeling and enginerring.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me send email.
+- 📫 How to reach me by email.
 
 <!---
 hyojun-rtdata/hyojun-rtdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
